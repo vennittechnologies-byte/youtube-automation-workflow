@@ -1,0 +1,36 @@
+{
+  "topics": [
+    {
+      "title": "AI Revolution in 2025",
+      "keywords": ["artificial intelligence", "machine learning", "future technology"],
+      "description": "Exploring the latest AI breakthroughs and their impact on society",
+      "visual_queries": ["artificial intelligence", "robots", "technology", "future"]
+    },
+    {
+      "title": "Productivity Hacks for Developers",
+      "keywords": ["productivity", "coding", "developer tools", "efficiency"],
+      "description": "Top productivity tips and tools every developer should know",
+      "visual_queries": ["coding", "programmer", "workspace", "technology"]
+    },
+    {
+      "title": "The Future of Remote Work",
+      "keywords": ["remote work", "digital nomad", "work from home", "future of work"],
+      "description": "How remote work is reshaping careers and lifestyles",
+      "visual_queries": ["remote work", "laptop", "home office", "digital nomad"]
+    },
+    {
+      "title": "Cybersecurity Essentials 2025",
+      "keywords": ["cybersecurity", "data protection", "online safety", "privacy"],
+      "description": "Essential cybersecurity practices everyone should follow",
+      "visual_queries": ["cybersecurity", "hacker", "security", "technology"]
+    },
+    {
+      "title": "Climate Tech Innovations",
+      "keywords": ["climate change", "green technology", "sustainability", "renewable energy"],
+      "description": "Breakthrough technologies fighting climate change",
+      "visual_queries": ["renewable energy", "solar panels", "wind turbines", "nature"]
+    }
+  ],
+  "rotation_strategy": "sequential",
+  "last_used_index": 0
+}
