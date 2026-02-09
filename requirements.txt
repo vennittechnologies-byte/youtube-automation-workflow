@@ -1,0 +1,29 @@
+# Core dependencies
+python-dotenv==1.0.0
+
+# LLM / Script Generation
+ollama==0.1.6
+groq==0.4.1
+
+# Text-to-Speech
+edge-tts==6.1.9
+
+# Video Processing
+moviepy==1.0.3
+Pillow==10.2.0
+
+# HTTP Requests / APIs
+requests==2.31.0
+
+# YouTube Upload
+google-api-python-client==2.116.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# Optional: Subtitles/Captions
+openai-whisper==20231117
+
+# Optional: AI Image Generation
+diffusers==0.26.3
+torch==2.2.0
+transformers==4.37.2
